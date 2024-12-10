@@ -49,6 +49,8 @@ Admin can do the following activities:
 
 ER Diagram
 
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/61183ddc-df05-47c1-82ba-afe62ecd9186">
+
 
 
 
@@ -275,6 +277,4 @@ Assume you are working in an Ed-tech company namely Great Learning where you wil
 You need not insert the records separately into both tables rather Create a trigger in such a way that It should insert the details into the Student back table when you insert the student details into the student table automatically.
 
 
-
-![image](https://github.com/user-attachments/assets/b32d3930-8379-4d69-8dde-3186545a7b10)
 

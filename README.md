@@ -52,6 +52,7 @@ A bidder can do the following things using this app:
 
 
 Admin can do the following activities:
+
 ● manage tournament (tournament id, duration, description)
 
 ● manage teams (description of players and team)
